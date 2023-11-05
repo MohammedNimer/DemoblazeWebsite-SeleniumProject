@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 05 17:54:54 GMT 2023","Sun Nov 05 17:55:02 GMT 2023","8213","Surefire suite","Surefire test","com.demoblaze.testcases.ShoppingTest","com.demoblaze.testcases.ShoppingTest","addItemsToCart","Adding items to cart successfully test",""
+"passed","Sun Nov 05 17:54:54 GMT 2023","Sun Nov 05 17:54:59 GMT 2023","4864","Surefire suite","Surefire test","com.demoblaze.testcases.UserTest","com.demoblaze.testcases.UserTest","registerAndLogin","Registration and login functionalities test",""
+"passed","Sun Nov 05 17:55:03 GMT 2023","Sun Nov 05 17:55:12 GMT 2023","9574","Surefire suite","Surefire test","com.demoblaze.testcases.ShoppingTest","com.demoblaze.testcases.ShoppingTest","deleteItemsFromTheCart","Deleting items from cart successfully test",""
